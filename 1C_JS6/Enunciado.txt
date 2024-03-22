@@ -1,0 +1,12 @@
+Así que su tarea es imprimir todos los números en un rango dado, a, b
+(ambos incluidos), en orden ascendente.
+Utilizando función bool EsPrimo(int n)
+Entrada:
+Línea única que contiene dos enteros separados por espacios, a y b
+respectivamente.
+Salida:
+Todos los enteros (en un vector) entre a y b (incluidos a y b), que
+satisfacen las condiciones mencionadas en la declaración, separados por
+un solo espacio.
+Restricciones:
+1 <= a, b <= 1000000
